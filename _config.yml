@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: AI Free Online Chinese Learning Platform
-subtitle: ''
-description: ''
+title: AI-Powered Free Online Chinese Learning Platform
+subtitle: 'Leverage the Power of China’s Leading AI Technology to Master Chinese — Free and Accessible Online'
+description: 'Leverage the Power of China’s Leading AI Technology to Master Chinese — Free and Accessible Online'
 keywords:
 author: Jerome Chang
 language: en
@@ -105,3 +105,7 @@ deploy:
   repo: https://github.com/wat2012/wat2012.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+card_announcement:
+  enable: true
+  content: No Anouncement!
